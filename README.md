@@ -52,7 +52,7 @@ You need the normal and the mesh files to create the nice looking Mesh Skirts. T
   </tr>
   <tr>
     <td><img src="https://raw.githubusercontent.com/kevinakasam/Tridender-Skirts/main/Images/grey.jpg" width="450"> </td>
-    <td><img src="https://raw.githubusercontent.com/kevinakasam/Tridender-Skirts/main/Images/Logo.JPEG" width="450"> </td>
+    <td><img src="https://raw.githubusercontent.com/kevinakasam/Tridender-Skirts/main/Images/Logo_KevinAkaSam.JPEG" width="450"> </td>
   </tr>
   <tr>
     <td>Picture by @iTzNicholas72 </td>
